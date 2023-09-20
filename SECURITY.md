@@ -19,4 +19,6 @@ Use this section to tell people how to report a vulnerability.
 Tell them where to go, how often they can expect to get an update on a
 reported vulnerability, what to expect if the vulnerability is accepted or
 declined, etc.
-[![PSScriptAnalyzer](https://github.com/gilbertalgordo/glorious-happiness/actions/workflows/powershell.yml/badge.svg?branch=main)](https://github.com/gilbertalgordo/glorious-happiness/actions/workflows/powershell.yml)https://gist.github.com/gilbertalgordo
+[![PSScriptAnalyzer](https://github.com/gilbertalgordo/glorious-happiness/actions/workflows/powershell.yml/badge.svg?branch=main)](https://github.com/gilbertalgordo/glorious-happiness/actions/workflows/powershell.yml)
+[![pages-build-deployment](https://github.com/gilbertalgordo/glorious-happiness/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/gilbertalgordo/glorious-happiness/actions/workflows/pages/pages-build-deployment)
+https://gist.github.com/gilbertalgordo
