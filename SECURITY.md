@@ -22,3 +22,4 @@ declined, etc.
 [![PSScriptAnalyzer](https://github.com/gilbertalgordo/glorious-happiness/actions/workflows/powershell.yml/badge.svg?branch=main)](https://github.com/gilbertalgordo/glorious-happiness/actions/workflows/powershell.yml)
 [![pages-build-deployment](https://github.com/gilbertalgordo/glorious-happiness/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/gilbertalgordo/glorious-happiness/actions/workflows/pages/pages-build-deployment)
 https://gist.github.com/gilbertalgordo
+[![OSSAR](https://github.com/gilbertalgordo/glorious-happiness/actions/workflows/ossar.yml/badge.svg)](https://github.com/gilbertalgordo/glorious-happiness/actions/workflows/ossar.yml)
