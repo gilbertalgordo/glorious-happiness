@@ -25,3 +25,5 @@ declined, etc.
 [![OSSAR](https://github.com/gilbertalgordo/glorious-happiness/actions/workflows/ossar.yml/badge.svg)](https://github.com/gilbertalgordo/glorious-happiness/actions/workflows/ossar.yml)
 https://gist.github.com/gilbertalgordo
 
+# Pay Transparency
+https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:3904d473-0113-3d87-82e8-1c8faf4c8a8d
